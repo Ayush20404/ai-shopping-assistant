@@ -54,7 +54,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Add your deployed link here after deployment)
+https://github.com/Ayush20404/ai-shopping-assistant/edit/main/README.md
 
 ---
 
